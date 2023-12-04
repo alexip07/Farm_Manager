@@ -1,1 +1,2 @@
-
+Hi!
+In this directory it will be created all of the JSON files used to store and use objects created.
